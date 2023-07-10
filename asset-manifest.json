@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e184f0b.css",
+    "main.js": "/static/js/main.1bb929c0.js",
+    "static/media/Twitter.png": "/static/media/Twitter.22028f66d0cdc0b7fb72.png",
+    "static/media/iMusic.png": "/static/media/iMusic.23cb87fb8822e9ceebd2.png",
+    "static/media/Blackjack.png": "/static/media/Blackjack.21c9919b5169903135b5.png",
+    "static/media/icon.png": "/static/media/icon.1ffe5313528615c6cb93.png",
+    "index.html": "/index.html",
+    "main.0e184f0b.css.map": "/static/css/main.0e184f0b.css.map",
+    "main.1bb929c0.js.map": "/static/js/main.1bb929c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e184f0b.css",
+    "static/js/main.1bb929c0.js"
+  ]
+}
